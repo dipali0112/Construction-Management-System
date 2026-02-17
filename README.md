@@ -88,9 +88,10 @@ No confidential client data is included.
  
 ---
  
-## 📈 Future Enhancements
+## 📌 Client Project Notice
+This is a **client-based project** developed for business reporting automation.  
+Due to confidentiality and data privacy policies:
  
-- Mobile-friendly enhancements  
-- Automated alerts and notifications  
-- Advanced predictive analytics  
-- Improved UI/UX design  
+- Actual application files and source code are not included.
+- Only **PDF screenshots and documentation** are provided for reference.
+- No real client data has been shared in this repository.
